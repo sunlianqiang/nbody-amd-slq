@@ -24,6 +24,7 @@
 #!glew*
 #!glut*
 
-NBody_AMD_ocl-100/temp/*
+NBody_AMD_ocl-100/temp/
+#!bin/*
 
 
