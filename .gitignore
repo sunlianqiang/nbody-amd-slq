@@ -24,10 +24,9 @@
 #*.sdf
 
 # exception
-#!glew*
-#!glut*
+!*glew*
+!*glut*
 
 NBody_AMD_ocl-100/temp/
-#!bin/*
 
 
