@@ -24,5 +24,6 @@
 #!glew*
 #!glut*
 
-dy_AMD_ocl-100/temp/*
+NBody_AMD_ocl-100/temp/*
+
 
