@@ -19,3 +19,10 @@
 *.exe
 *.out
 *.app
+
+# exception
+#!glew*
+#!glut*
+
+dy_AMD_ocl-100/temp/*
+
