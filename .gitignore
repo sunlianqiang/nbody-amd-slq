@@ -20,6 +20,9 @@
 *.out
 *.app
 
+# Visual Studio
+#*.sdf
+
 # exception
 #!glew*
 #!glut*
